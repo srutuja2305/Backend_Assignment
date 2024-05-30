@@ -12,7 +12,7 @@ This is a project with Node.js, Express, Socket.io, and MySQL.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/bidding-platform.git
+    git clone https://github.com/srutuja2305/Backend_Assignment.git
     cd bidding-platform
     ```
 
